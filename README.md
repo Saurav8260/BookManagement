@@ -38,8 +38,8 @@ bookstore-api/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/bookstore-api.git
-   cd book management
+   git clone https://github.com/Saurav8260/BookManagement.git
+  
 
 2. **Install dependencies**:
   ```bash
@@ -58,7 +58,7 @@ bookstore-api/
 5.**Sample .env File**:
 ```bash
    PORT=5001
-   MONGO_URI=mongodb://localhost:27017/bookstore
+   MONGO_URI=your mongodb url
 
 
 6.**API Endpoints**:
