@@ -47,7 +47,7 @@ bookstore-api/
 
 3.**Create a .env file in the root directory and add**:
 ```bash
-   PORT=5000
+   PORT=5001
    MONGO_URI=Your db url
 
 
